@@ -1,0 +1,28 @@
+{
+  "name": "stat-kit-cjs",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dany dev",
+  "license": "ISC",
+  "description": "Simple statistics utility functions (mean, median, mode, etc.)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uservpr/stat-kit-cjs.git"
+  },
+  "keywords": [
+    "statistics",
+    "math",
+    "mean",
+    "median",
+    "mode",
+    "variance",
+    "standard-deviation"
+  ],
+  "bugs": {
+    "url": "https://github.com/Uservpr/stat-kit-cjs/issues"
+  },
+  "homepage": "https://github.com/Uservpr/stat-kit-cjs#readme"
+}
