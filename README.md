@@ -30,8 +30,9 @@ npm install stat-kit-cjs
 
 ## 🚀 Usage
 
-```
-const stat = require('stat-kit-cjs');
+```javaScriptt
+const Stat = reuire('stat-kit-cjs');
+const stat = Stat()
 
 const data = [2, 4, 4, 4, 5, 5, 7,', stat.mean(data));             // 5
 console.log('Median:', stat.median(data));         // 4.5
